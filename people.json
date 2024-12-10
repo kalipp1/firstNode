@@ -1,0 +1,79 @@
+[
+  {
+    "gender": "M",
+    "name": "Steve Brody",
+    "age": "75",
+    "phone": "348 139 439",
+    "email": "steve.brody@gmail.com"
+  },
+  {
+    "gender": "M",
+    "name": "Cody Huggins",
+    "age": "68",
+    "phone": "600 309 305",
+    "email": "cody.huggins@gmail.com"
+  },
+  {
+    "gender": "F",
+    "name": "Emilly Brody",
+    "age": "32",
+    "phone": "266 296 216",
+    "email": "emilly.brody@gmail.com"
+  },
+  {
+    "gender": "F",
+    "name": "Rose Lock",
+    "age": "62",
+    "phone": "392 662 939",
+    "email": "rose.lock@gmail.com"
+  },
+  {
+    "gender": "F",
+    "name": "Emilly Philips",
+    "age": "23",
+    "phone": "979 936 609",
+    "email": "emilly.philips@gmail.com"
+  },
+  {
+    "gender": "F",
+    "name": "Rose Cooper",
+    "age": "52",
+    "phone": "664 771 949",
+    "email": "rose.cooper@gmail.com"
+  },
+  {
+    "gender": "M",
+    "name": "Pihilip Lock",
+    "age": "29",
+    "phone": "813 864 825",
+    "email": "pihilip.lock@gmail.com"
+  },
+  {
+    "gender": "M",
+    "name": "Soyer Hermesa",
+    "age": "76",
+    "phone": "721 501 867",
+    "email": "soyer.hermesa@gmail.com"
+  },
+  {
+    "gender": "M",
+    "name": "Cody Brody",
+    "age": "43",
+    "phone": "817 951 877",
+    "email": "cody.brody@gmail.com"
+  },
+  {
+    "gender": "M",
+    "name": "Jack Smith",
+    "age": "65",
+    "phone": "532 976 326",
+    "email": "jack.smith@gmail.com"
+  },
+  {
+    "gender": "F",
+    "name": "Rose Smith",
+    "age": "62",
+    "phone": "734 579 183",
+    "email": "rose.smith@gmail.com"
+  }
+]
